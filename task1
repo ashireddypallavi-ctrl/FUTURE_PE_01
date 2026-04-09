@@ -1,0 +1,128 @@
+r
+FUTURE INTERNS
+Prompt Engineering Internship — Task 1
+AI Website Copy Generator for Local Businesses
+Business Type: Cafe / Restaurant  |  Tone: Professional & Trustworthy
+Submitted by: Pallavi Ashireddy  |  CIN: FIT/MAR26/PE2233
+Repository: FUTURE_PE_01  |  Date: 30/03/2026
+
+1. Project Overview
+This document presents a complete AI-generated website copy set for a local Cafe/Restaurant business. The copy covers three core website sections: Homepage, Services/Menu Page, and CTA (Call-to-Action). Each section was generated using carefully structured prompts fed into Claude (claude.ai). The prompt logic, iterative refinements, and final outputs are fully documented below for transparency and reproducibility.
+
+2. Prompt Engineering Strategy
+The following framework was used to design each prompt for maximum output quality:
+
+•Role Assignment — The AI was told to act as a professional website copywriter.
+•Business Context — Specific business type (cafe/restaurant), location type, and target audience were provided.
+•Tone Instruction — A professional and trustworthy tone was explicitly specified.
+•Output Format — The desired structure (headline, subheadline, body copy, CTA) was defined.
+•Constraints — Word limits and readability requirements were included in each prompt.
+
+3. Homepage Copy
+3.1 Prompt Used
+🎯 Homepage Copy Prompt
+PROMPT:
+You are a professional website copywriter specializing in local businesses. Write homepage copy for a cafe/restaurant called "The Golden Brew" located in Hyderabad. The tone should be professional and trustworthy. Include: (1) A compelling headline, (2) A subheadline that builds trust, (3) A 60-word value proposition paragraph, and (4) Two short supporting statements. The content should appeal to professionals, families, and food lovers. Keep it website-ready and conversion-focused.
+AI OUTPUT:
+Headline: "Where Every Visit Feels Like Home — And Every Bite Tells a Story"
+Subheadline: Hyderabad's most trusted neighbourhood cafe, serving quality meals since 2018.
+Value Proposition: At The Golden Brew, we believe great food is more than a meal — it is an experience worth returning to. From our hand-crafted beverages to our chef-curated menu, every dish is prepared with premium ingredients, genuine care, and a commitment to consistency. Whether you are here for a morning coffee or a family dinner, expect nothing less than excellence.
+Support 1: Rated 4.8/5 by over 2,000 satisfied guests across Hyderabad.
+Support 2: Fresh, locally sourced ingredients — prepared daily, served with pride.
+
+3.2 Final Homepage Copy
+HEADLINE
+Where Every Visit Feels Like Home — And Every Bite Tells a Story
+
+Hyderabad's most trusted neighbourhood cafe, serving quality meals since 2018.
+
+At The Golden Brew, we believe great food is more than a meal — it is an experience worth returning to. From our hand-crafted beverages to our chef-curated menu, every dish is prepared with premium ingredients, genuine care, and a commitment to consistency. Whether you are here for a morning coffee or a family dinner, expect nothing less than excellence.
+
+✔  Rated 4.8/5 by over 2,000 satisfied guests across Hyderabad.
+✔  Fresh, locally sourced ingredients — prepared daily, served with pride.
+
+
+4. Services / Menu Page Copy
+4.1 Prompt Used
+🎯 Services Page Prompt
+PROMPT:
+You are a professional copywriter for a cafe/restaurant website. Write the "Our Menu" page copy for "The Golden Brew" in Hyderabad. Tone: professional and trustworthy. Include: (1) A page headline, (2) A short intro paragraph (40 words), (3) Descriptions for 4 menu categories — Breakfast, All-Day Beverages, Lunch & Dinner, and Desserts. Each description should be 25–35 words, persuasive, and highlight quality and taste. Avoid cliches. Be specific and appetising.
+AI OUTPUT:
+Page Headline: "A Menu Built on Quality, Crafted for Every Craving"
+Intro: Explore a thoughtfully curated selection of dishes and beverages, designed to satisfy every palate. At The Golden Brew, quality is non-negotiable — from the first sip of your morning coffee to your last dessert bite.
+Breakfast: Start your morning with a purpose. Our breakfast menu offers protein-rich platters, artisan toast selections, freshly brewed filter coffee, and wholesome options — all prepared to order, every single morning.
+All-Day Beverages: From single-origin pour-overs to house-blend cold brews and signature lemonades, our beverage bar is crafted for those who take their drinks seriously. Available from open to close.
+Lunch & Dinner: Our lunch and dinner offerings bring bold flavours to familiar comfort food. Slow-cooked curries, grilled mains, fresh salads, and chef's specials — updated seasonally to keep your palate curious.
+Desserts: End perfectly. Our dessert menu features classic confections and contemporary creations — each made in-house with premium dairy, seasonal fruits, and a touch of culinary artistry.
+
+4.2 Final Services Page Copy
+A Menu Built on Quality, Crafted for Every Craving
+Explore a thoughtfully curated selection of dishes and beverages, designed to satisfy every palate. At The Golden Brew, quality is non-negotiable — from the first sip of your morning coffee to your last dessert bite.
+
+🌅 Breakfast
+Start your morning with a purpose. Our breakfast menu offers protein-rich platters, artisan toast selections, freshly brewed filter coffee, and wholesome options — all prepared to order, every single morning.	☕ All-Day Beverages
+From single-origin pour-overs to house-blend cold brews and signature lemonades, our beverage bar is crafted for those who take their drinks seriously. Available from open to close.
+🍽 Lunch & Dinner
+Our lunch and dinner offerings bring bold flavours to familiar comfort food. Slow-cooked curries, grilled mains, fresh salads, and chef's specials — updated seasonally to keep your palate curious.	🍮 Desserts
+End perfectly. Our dessert menu features classic confections and contemporary creations — each made in-house with premium dairy, seasonal fruits, and a touch of culinary artistry.
+
+
+5. Call-to-Action (CTA) Section Copy
+5.1 Prompt Used
+🎯 CTA Section Prompt
+PROMPT:
+You are a conversion copywriter for a professional cafe/restaurant website. Write 3 different CTA sections for "The Golden Brew" in Hyderabad. Each CTA should have: (1) A short punchy headline (max 10 words), (2) A supporting line (max 20 words), and (3) A button label (3–5 words). CTAs should target: booking a table, contacting for catering, and following on social media. Tone: professional and trustworthy. No fluff.
+AI OUTPUT:
+CTA 1 – Table Booking
+Headline: Reserve Your Table in Under a Minute
+Supporting: Skip the wait. Secure your preferred time slot with an easy online booking.
+Button: Book a Table Now
+
+CTA 2 – Catering Enquiry
+Headline: Catering for Events, Done Right
+Supporting: Planning a corporate lunch or private event? Our team handles everything — from setup to service.
+Button: Enquire About Catering
+
+CTA 3 – Social Media
+Headline: Follow Our Journey, One Dish at a Time
+Supporting: Behind-the-scenes, new arrivals, and daily specials — all on our Instagram.
+Button: Follow Us on Instagram
+
+5.2 Final CTA Copy
+
+📅 Table Booking
+Reserve Your Table in Under a Minute
+Skip the wait. Secure your preferred time slot with an easy online booking.
+[ Book a Table Now ]	🍱 Catering Enquiry
+Catering for Events, Done Right
+Planning a corporate lunch or private event? Our team handles everything — from setup to service.
+[ Enquire About Catering ]	📸 Social Media
+Follow Our Journey, One Dish at a Time
+Behind-the-scenes, new arrivals, and daily specials — all on our Instagram.
+[ Follow Us on Instagram ]
+
+
+6. Tone Adaptation: Other Business Types
+The same prompt framework was tested and adapted for other local business types to demonstrate flexibility:
+
+Business Type	Tone Adjustment	Sample Headline
+Salon / Beauty	Warm, aspirational, empowering	"Look Your Best. Feel Even Better."
+Clinic / Healthcare	Calm, reassuring, clinical trust	"Your Health, In Experienced Hands"
+Digital Agency	Bold, modern, results-driven	"We Build Brands That Win Online"
+
+
+7. GitHub Submission Details
+Repository Name	FUTURE_PE_01
+Track Code	PE (Prompt Engineering)
+Intern Name	Pallavi Ashireddy
+CIN	FIT/MAR26/PE2233
+Internship Period	27/03/2026 – 27/04/2026
+Tool Used	Claude (claude.ai)
+Document Type	AI-generated website copy + prompt documentation
+Business Type	Cafe / Restaurant — The Golden Brew, Hyderabad
+
+
+8. Conclusion
+This task demonstrates how structured prompt engineering can be used to generate high-quality, conversion-focused website copy for local businesses. By clearly defining the role, tone, business context, and output format in each prompt, the AI produced professional, website-ready content that can be directly used by a real client.
+
+All prompts are documented and reproducible. The same framework can be adapted for any local business type by adjusting the tone instruction and business context in the prompt.
